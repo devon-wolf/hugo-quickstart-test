@@ -1,0 +1,4 @@
+baseURL = 'http://mindthespines.com'
+languageCode = 'en-us'
+title = 'Mind the Spines'
+theme = "ananke"
